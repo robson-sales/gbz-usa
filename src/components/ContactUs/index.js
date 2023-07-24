@@ -14,7 +14,7 @@ import './style.css';
 
 export default function Contato() {
   useEffect(() => {
-    document.title = 'GB Zincagem | Contato';
+    document.title = 'GB Zinc Plating | Contato';
   }, []);
 
   return (

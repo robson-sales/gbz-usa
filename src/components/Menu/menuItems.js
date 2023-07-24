@@ -1,82 +1,82 @@
 export const menuItems = [
   {
-    title: 'Quem somos',
-    url: '/quem-somos',
+    title: 'About Us',
+    url: '/about-us',
   },
   {
-    title: 'Qualidade',
-    url: '/qualidade',
+    title: 'Quality',
+    url: '/quality',
   },
   {
-    title: 'Tratamentos',
+    title: 'Coatings',
     url: '',
     subItems: [
       {
         title: 'Alodine',
-        url: '/tratamentos/alodine',
+        url: '/coatings/alodine',
       },
       {
-        title: 'Bissulfeto de Molibdênio',
-        url: '/tratamentos/bissulfeto',
+        title: 'Molybdenum Disulfide',
+        url: '/coatings/molybdenum-disulfide',
       },
       {
-        title: 'Cádmio',
-        url: '/tratamentos/cadmio',
+        title: 'Cadmium',
+        url: '/coatings/cadmium',
       },
       {
-        title: 'Estanho',
-        url: '/tratamentos/estanho',
+        title: 'Tin',
+        url: '/coatings/tin',
       },
       {
-        title: 'Fosfatização',
-        url: '/tratamentos/fosfatizacao',
+        title: 'Phosphatization',
+        url: '/coatings/phosphatization',
       },
       {
-        title: 'Níquel Químico',
-        url: '/tratamentos/niquel',
+        title: 'Chemical Nickel',
+        url: '/coatings/nickel',
       },
       {
-        title: 'Oxidação Negra',
-        url: '/tratamentos/oxidacao-negra',
+        title: 'Black Oxidation',
+        url: '/coatings/black-oxidation',
       },
       {
         title: 'Xylan',
-        url: '/tratamentos/xylan',
+        url: '/coatings/xylan',
       },
       {
-        title: 'Zincagem Eletrolítica',
-        url: '/tratamentos/zincagem-eletrolitica',
+        title: 'Electrolytic Zinc Plating',
+        url: '/coatings/electrolytic-zinc-plating',
       },
       {
-        title: 'Zincagem a Fogo',
-        url: '/tratamentos/zincagem-fogo',
+        title: 'Hot-Dip Galvanizing',
+        url: '/coatings/hot-dip',
       },
       {
-        title: 'Zinco Níquel',
-        url: '/tratamentos/zinco-niquel',
+        title: 'Zinc Nickel',
+        url: '/coatings/zinc-nickel',
       },
     ],
   },
   {
-    title: 'Serviços',
+    title: 'Services',
     url: '',
     subItems: [
       {
-        title: 'Decapagem',
-        url: '/servicos/decapagem',
+        title: 'Pickling',
+        url: '/services/pickling',
       },
       {
-        title: 'Desengraxe',
-        url: '/servicos/desengraxe',
+        title: 'Degreasing',
+        url: '/services/degreasing',
       },
       {
-        title: 'Jateamento',
-        url: '/servicos/jateamento',
+        title: 'Sandblasting',
+        url: '/services/sandblasting',
       },
     ],
   },
   {
-    title: 'Contato',
-    url: '/contato',
+    title: 'Contact Us',
+    url: '/contact-us',
   },
 ];

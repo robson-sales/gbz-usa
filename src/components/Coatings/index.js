@@ -8,7 +8,7 @@ export default function Tratamentos() {
   const tratamento = getTratamento(item);
 
   useEffect(() => {
-    document.title = `GB Zincagem | ${tratamento.title}`;
+    document.title = `GB Zinc Plating | ${tratamento.title}`;
   }, [tratamento.title]);
 
   return (

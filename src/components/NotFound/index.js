@@ -4,7 +4,7 @@ import pageNotFound from '../../assets/images/404.svg';
 
 export default function NotFound() {
   useEffect(() => {
-    document.title = 'GB Zincagem | Página não encontrada';
+    document.title = 'GB Zinc Plating | Página não encontrada';
   }, []);
 
   return (
