@@ -1,0 +1,58 @@
+.banner {
+  width: 100%;
+  height: var(--util-height);
+  padding: 15rem 5rem;
+  background-image: url('../../assets/images/background.png');
+  background-size: cover;
+  background-position: center;
+  text-shadow: 2px 2px 2px rgb(79, 78, 78);
+}
+
+.banner h1 {
+  padding-bottom: 10px;
+  color: white;
+}
+.banner h2 {
+  padding-bottom: 10px;
+  font-weight: 300;
+  color: white;
+}
+.banner p {
+  padding-bottom: 10px;
+  font-size: 2rem;
+  font-weight: 300;
+  color: white;
+}
+
+.flags img {
+  width: 50px;
+  padding-right: 10px;
+}
+
+.text-paragraph {
+  max-width: 700px;
+}
+
+.button {
+  width: 300px;
+  height: 40px;
+  background-color: var(--primary-color);
+  border: none;
+  border-radius: 10px;
+  font-family: 'League Spartan', sans-serif;
+  font-size: 1.7rem;
+  font-weight: bold;
+  color: white;
+  cursor: pointer;
+}
+
+.button:hover{
+  background-color: var(--primary-color);
+}
+
+@media (max-width: 700px) {
+ .banner {
+  padding: 5rem;
+ }
+
+}
