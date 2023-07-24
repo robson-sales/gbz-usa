@@ -24,14 +24,12 @@ export default function Contato() {
           <CarrosselContato />
         </div>
         <div className="contact-txt">
-          <h2>Contato</h2>
+          <h2>Contact Us</h2>
           <p>
-            <strong>
-              Descubra como podemos ajudar a potencializar seu negócio.
-            </strong>
+            <strong>Find out how we can help boost your business.</strong>
           </p>
           <div className="contact-social">
-            <p>Nossas redes sociais:</p>
+            <p>Our social media:</p>
             <a
               href="https://www.linkedin.com/company/galvanoplastiabarueri/"
               target="_blank"
