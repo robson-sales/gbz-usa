@@ -5,7 +5,7 @@ import CarrosselQualidade from './Carrossel';
 
 export default function Qualidade() {
   useEffect(() => {
-    document.title = 'GB Zinc Plating | Qua';
+    document.title = 'GB Zinc Plating | Quality';
   }, []);
 
   return (

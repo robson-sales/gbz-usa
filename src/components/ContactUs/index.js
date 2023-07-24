@@ -14,7 +14,7 @@ import './style.css';
 
 export default function Contato() {
   useEffect(() => {
-    document.title = 'GB Zinc Plating | Contato';
+    document.title = 'GB Zinc Plating | Contact Us';
   }, []);
 
   return (

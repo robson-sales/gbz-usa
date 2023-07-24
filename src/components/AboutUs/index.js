@@ -5,7 +5,7 @@ import './style.css';
 
 export default function QuemSomos() {
   useEffect(() => {
-    document.title = 'GB Zinc Plating | Quem Somos';
+    document.title = 'GB Zinc Plating | About Us';
   }, []);
 
   return (
